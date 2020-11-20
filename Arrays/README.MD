@@ -1,2 +1,1 @@
-Arrays
-Sparse Arrays
+Arrays and Sparse Arrays
