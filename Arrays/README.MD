@@ -1,1 +1,2 @@
-Arrays and Sparse Arrays
+# Sparse Arrays
+To save space and allows sparsity.
