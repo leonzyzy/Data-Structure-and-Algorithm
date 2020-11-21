@@ -4,6 +4,7 @@
 2. Queues
 3. Linked List
 4. Stack
+5. Hash Table
 
 # Algorithm
 1. Sorting
